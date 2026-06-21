@@ -1,2 +1,14 @@
 # qiutan-data-archive
-HTML page archive and documentation
+
+页面托管与归档说明
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
